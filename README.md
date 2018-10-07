@@ -22,3 +22,11 @@ Your local template folder on your PC is, by default, there:
 > C:\Realizzer\library\Templates
 
 **Note:** If the picture `".jpg"` is not present, only the preview will not be available.
+
+## How to add new RealPacks?
+
+To add *(or update)* RealPacks from this [RealPacks Folder](https://github.com/Spb8Lighting/Realizzer3D-Community/tree/master/Realpacks), you have to download the RealPack file `".r3p"` with its associated picture `".jpg"` and copy it under your local Realpacks folder.
+
+Your local template folder on your PC is, by default, there:
+
+> C:\Documents\Realizzer\MyLibrarys\Fixtures\Lighting\User FixturesModels\Realpacks
