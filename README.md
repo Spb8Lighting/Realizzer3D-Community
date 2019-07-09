@@ -30,3 +30,13 @@ To add *(or update)* RealPacks from this [RealPacks Folder](https://github.com/S
 Your local template folder on your PC is, by default, there:
 
 > C:\Documents\Realizzer\MyLibrarys\Fixtures\Lighting\User FixturesModels\Realpacks
+
+# Miscellaneous
+
+## Convert Lux@Xm to Lux @Ym
+
+To convert a Lux value @ X m to a Lux value @ Y m one, you can convert it into Candela (unit without any distance) to convert it back to Lux with m value.
+
+From https://www.rapidtables.com/calc/light/lux-to-candela-calculator.html set your input Lux @ X ft/m value to get the Candela
+
+Then from https://www.rapidtables.com/calc/light/candela-to-lux-calculator.html set your Candela value and set the awaited distance for Lux value (5m for Realizzer 3D)
